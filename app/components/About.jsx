@@ -11,7 +11,7 @@ var About = (props) => {
         <li>React - Javascript Framework</li>
         <li>Open Weather Map API</li>
       </ul>
-      <p>You can checkout my website at <a href="www.kaushalapatel.com">Kaushal Patel</a></p>
+      <p>You can checkout my website at <a href="http://www.kaushalapatel.com">Kaushal Patel</a></p>
     </div>
   )
 };
