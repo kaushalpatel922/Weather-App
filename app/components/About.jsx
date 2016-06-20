@@ -4,8 +4,14 @@ var React = require('react');
 var About = (props) => {
   return(
     <div>
-      <h3>About component</h3>
-      <p>Welcome to About!</p>
+      <h1 className="text-center">About</h1>
+      <p>I am Kaushal Patel - Full Stack Web Developer.</p>
+      <p>This is a weather application built using:</p>
+      <ul>
+        <li>React - Javascript Framework</li>
+        <li>Open Weather Map API</li>
+      </ul>
+      <p>You can checkout my website at <a href="www.kaushalapatel.com">Kaushal Patel</a></p>
     </div>
   )
 };
