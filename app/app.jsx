@@ -8,7 +8,7 @@ var Weather = require('Weather');
 var About = require('About');
 var Examples = require('Examples');
 //Adding css
-require('style!css!app/css/style.css')
+require('style!css!sass!app/css/style.scss')
 
 //load foundation
 require('style!css!foundation-sites/dist/foundation.min.css')
