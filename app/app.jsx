@@ -7,8 +7,10 @@ var Nav = require('Nav');
 var Weather = require('Weather');
 var About = require('About');
 var Examples = require('Examples');
+//Adding css
+require('style!css!app/css/style.css')
 
-//load foundatino
+//load foundation
 require('style!css!foundation-sites/dist/foundation.min.css')
 $(document).foundation();
 
